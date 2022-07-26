@@ -1,0 +1,10 @@
+{
+  "name": "Gulp-import-html",
+  "version": "1",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-file-include": "^2.3.0"
+  }
+}
